@@ -1,0 +1,6 @@
+C:\dev\C#\FlotsBleusConsoleApp\FlotsBleusLibrary\bin\Debug\FlotsBleusLibrary.dll
+C:\dev\C#\FlotsBleusConsoleApp\FlotsBleusLibrary\bin\Debug\FlotsBleusLibrary.pdb
+C:\dev\C#\FlotsBleusConsoleApp\FlotsBleusLibrary\obj\Debug\FlotsBleusLibrary.csproj.AssemblyReference.cache
+C:\dev\C#\FlotsBleusConsoleApp\FlotsBleusLibrary\obj\Debug\FlotsBleusLibrary.csproj.CoreCompileInputs.cache
+C:\dev\C#\FlotsBleusConsoleApp\FlotsBleusLibrary\obj\Debug\FlotsBleusLibrary.dll
+C:\dev\C#\FlotsBleusConsoleApp\FlotsBleusLibrary\obj\Debug\FlotsBleusLibrary.pdb

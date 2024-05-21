@@ -1,0 +1,9 @@
+C:\dev\C#\FlotsBleusConsoleApp\bin\Debug\FlotsBleusConsoleApp.exe
+C:\dev\C#\FlotsBleusConsoleApp\bin\Debug\FlotsBleusConsoleApp.pdb
+C:\dev\C#\FlotsBleusConsoleApp\bin\Debug\FlotsBleusLibrary.dll
+C:\dev\C#\FlotsBleusConsoleApp\bin\Debug\FlotsBleusLibrary.pdb
+C:\dev\C#\FlotsBleusConsoleApp\obj\Debug\FlotsBleusConsoleApp.csproj.AssemblyReference.cache
+C:\dev\C#\FlotsBleusConsoleApp\obj\Debug\FlotsBleusConsoleApp.csproj.CoreCompileInputs.cache
+C:\dev\C#\FlotsBleusConsoleApp\obj\Debug\FlotsBle.39725DA1.Up2Date
+C:\dev\C#\FlotsBleusConsoleApp\obj\Debug\FlotsBleusConsoleApp.exe
+C:\dev\C#\FlotsBleusConsoleApp\obj\Debug\FlotsBleusConsoleApp.pdb
